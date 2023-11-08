@@ -8,4 +8,4 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 * Data Cleaning and Transformation: The project involves cleaning and transforming data to ensure accuracy, consistency, and readiness for analysis. This includes handling duplicates, missing values, and data consistency issues.
 * Interactive Dashboards: We leverage PowerBI to create interactive and visually appealing dashboards and reports that provide valuable insights into sales performance. These dashboards include charts, graphs, and tables.
 * Advanced Analytics: SQL is used to perform advanced analytics on sales data, extracting actionable insights to drive improvements in sales strategies and operations.
-R* eal-time Access: The solution allows management to access up-to-date dashboards and reports in real-time, enabling data-driven decision-making.
+* eal-time Access: The solution allows management to access up-to-date dashboards and reports in real-time, enabling data-driven decision-making.
