@@ -5,7 +5,17 @@ The "Axon Sales Report" project is a comprehensive Business Intelligence (BI) so
 
 # Key Features:
 * Data Integration: We utilize a MySQL database to store crucial business data, including customer details, product information, sales orders, and more.
-* Data Cleaning and Transformation: The project involves cleaning and transforming data to ensure accuracy, consistency, and readiness for analysis. This includes handling duplicates, missing values, and data consistency issues.
-* Interactive Dashboards: We leverage PowerBI to create interactive and visually appealing dashboards and reports that provide valuable insights into sales performance. These dashboards include charts, graphs, and tables.
+* Data Cleaning and Transformation: The project involves cleaning and transforming data to ensure accuracy, consistency, and readiness for analysis. This includes handling duplicates, missing values, and 
+  data consistency issues.
+* Interactive Dashboards: We leverage PowerBI to create interactive and visually appealing dashboards and reports that provide valuable insights into sales performance. These dashboards include charts, 
+  graphs, and tables.
 * Advanced Analytics: SQL is used to perform advanced analytics on sales data, extracting actionable insights to drive improvements in sales strategies and operations.
-* eal-time Access: The solution allows management to access up-to-date dashboards and reports in real-time, enabling data-driven decision-making.
+* Real-time Access: The solution allows management to access up-to-date dashboards and reports in real time, enabling data-driven decision-making.
+
+# Project Steps:
+* Data Setup: Create a MySQL database called "classicmodels" and load it into Power BI for analysis.
+* Data Transformation: Cleanse and transform data to ensure data quality.
+* Dashboard Design: Utilize PowerBI's capabilities to design intuitive dashboards and reports that provide a comprehensive view of sales data.
+* Advanced Analytics: Implement SQL queries for in-depth analysis and insight extraction.
+* Testing and Debugging: Thoroughly test the BI solution to ensure its functionality and address any issues.
+* Deployment: Deploy the BI solution to the sales team and management, ensuring user-friendliness and ease of adoption.
